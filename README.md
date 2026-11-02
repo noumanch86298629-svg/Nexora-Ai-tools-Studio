@@ -1,1 +1,1 @@
-# VEXORA-Ai-tools-Studio
+# Vexora-Ai-tools-Studio
